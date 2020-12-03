@@ -1,0 +1,18 @@
+Antofagasta;61
+O'Higgins;57
+Iquique;55
+Audax;54
+Coquimbo;53
+Colo Colo;53
+U. de Chile;52
+Palestino;51
+Huachipato;50
+Cobresal;50
+Wanderers;47
+Everton;44
+La Serena;44
+Curicó Unido;43
+U. La Calera;42
+Univ Católica;40
+Unión Española ;38
+U. Concepción;38

@@ -1,0 +1,7 @@
+U. de Chile;3
+Huachipato;2
+U. Concepción;4
+Cobresal;4
+Iquique;1
+Coquimbo;4
+Colo Colo;1
