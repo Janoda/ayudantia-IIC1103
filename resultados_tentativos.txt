@@ -1,0 +1,306 @@
+Univ Católica;U. La Calera;2-4
+Univ Católica;Unión Española ;0-1
+Univ Católica;Curicó Unido;3-1
+Univ Católica;Antofagasta;1-1
+Univ Católica;U. de Chile;3-2
+Univ Católica;Huachipato;4-0
+Univ Católica;U. Concepción;3-0
+Univ Católica;Audax;4-0
+Univ Católica;Everton;4-5
+Univ Católica;Wanderers;4-5
+Univ Católica;Cobresal;5-2
+Univ Católica;Iquique;2-4
+Univ Católica;Palestino;1-2
+Univ Católica;Coquimbo;4-4
+Univ Católica;O'Higgins;4-2
+Univ Católica;La Serena;1-4
+Univ Católica;Colo Colo;4-3
+U. La Calera;Univ Católica;5-0
+U. La Calera;Unión Española ;3-0
+U. La Calera;Curicó Unido;4-2
+U. La Calera;Antofagasta;2-1
+U. La Calera;U. de Chile;3-3
+U. La Calera;Huachipato;5-5
+U. La Calera;U. Concepción;1-4
+U. La Calera;Audax;1-2
+U. La Calera;Everton;5-3
+U. La Calera;Wanderers;4-3
+U. La Calera;Cobresal;4-1
+U. La Calera;Iquique;3-3
+U. La Calera;Palestino;1-2
+U. La Calera;Coquimbo;2-3
+U. La Calera;O'Higgins;5-0
+U. La Calera;La Serena;2-5
+U. La Calera;Colo Colo;2-1
+Unión Española ;Univ Católica;2-0
+Unión Española ;U. La Calera;0-0
+Unión Española ;Curicó Unido;0-2
+Unión Española ;Antofagasta;1-4
+Unión Española ;U. de Chile;0-5
+Unión Española ;Huachipato;0-0
+Unión Española ;U. Concepción;2-5
+Unión Española ;Audax;1-1
+Unión Española ;Everton;3-4
+Unión Española ;Wanderers;4-1
+Unión Española ;Cobresal;5-2
+Unión Española ;Iquique;3-4
+Unión Española ;Palestino;0-4
+Unión Española ;Coquimbo;3-1
+Unión Española ;O'Higgins;4-5
+Unión Española ;La Serena;2-4
+Unión Española ;Colo Colo;4-5
+Curicó Unido;Univ Católica;3-3
+Curicó Unido;U. La Calera;0-2
+Curicó Unido;Unión Española ;5-4
+Curicó Unido;Antofagasta;1-2
+Curicó Unido;U. de Chile;4-0
+Curicó Unido;Huachipato;1-4
+Curicó Unido;U. Concepción;4-5
+Curicó Unido;Audax;4-0
+Curicó Unido;Everton;2-3
+Curicó Unido;Wanderers;0-2
+Curicó Unido;Cobresal;5-1
+Curicó Unido;Iquique;4-1
+Curicó Unido;Palestino;5-2
+Curicó Unido;Coquimbo;4-0
+Curicó Unido;O'Higgins;2-3
+Curicó Unido;La Serena;5-2
+Curicó Unido;Colo Colo;4-4
+Antofagasta;Univ Católica;4-1
+Antofagasta;U. La Calera;4-3
+Antofagasta;Unión Española ;0-0
+Antofagasta;Curicó Unido;4-2
+Antofagasta;U. de Chile;2-4
+Antofagasta;Huachipato;5-3
+Antofagasta;U. Concepción;3-3
+Antofagasta;Audax;2-4
+Antofagasta;Everton;3-3
+Antofagasta;Wanderers;0-2
+Antofagasta;Cobresal;5-5
+Antofagasta;Iquique;0-0
+Antofagasta;Palestino;2-3
+Antofagasta;Coquimbo;5-5
+Antofagasta;O'Higgins;4-0
+Antofagasta;La Serena;3-4
+Antofagasta;Colo Colo;1-3
+U. de Chile;Univ Católica;0-5
+U. de Chile;U. La Calera;0-4
+U. de Chile;Unión Española ;2-2
+U. de Chile;Curicó Unido;1-4
+U. de Chile;Antofagasta;3-2
+U. de Chile;Huachipato;5-0
+U. de Chile;U. Concepción;3-2
+U. de Chile;Audax;2-0
+U. de Chile;Everton;3-2
+U. de Chile;Wanderers;4-2
+U. de Chile;Cobresal;2-1
+U. de Chile;Iquique;3-0
+U. de Chile;Palestino;5-3
+U. de Chile;Coquimbo;0-1
+U. de Chile;O'Higgins;1-0
+U. de Chile;La Serena;2-2
+U. de Chile;Colo Colo;1-0
+Huachipato;Univ Católica;1-3
+Huachipato;U. La Calera;4-1
+Huachipato;Unión Española ;0-1
+Huachipato;Curicó Unido;4-1
+Huachipato;Antofagasta;4-2
+Huachipato;U. de Chile;3-1
+Huachipato;U. Concepción;4-0
+Huachipato;Audax;4-0
+Huachipato;Everton;1-4
+Huachipato;Wanderers;5-1
+Huachipato;Cobresal;1-2
+Huachipato;Iquique;0-3
+Huachipato;Palestino;1-3
+Huachipato;Coquimbo;1-2
+Huachipato;O'Higgins;2-5
+Huachipato;La Serena;0-2
+Huachipato;Colo Colo;5-0
+U. Concepción;Univ Católica;3-4
+U. Concepción;U. La Calera;2-2
+U. Concepción;Unión Española ;0-4
+U. Concepción;Curicó Unido;5-1
+U. Concepción;Antofagasta;2-3
+U. Concepción;U. de Chile;2-0
+U. Concepción;Huachipato;3-0
+U. Concepción;Audax;3-2
+U. Concepción;Everton;0-1
+U. Concepción;Wanderers;4-0
+U. Concepción;Cobresal;1-1
+U. Concepción;Iquique;4-4
+U. Concepción;Palestino;2-1
+U. Concepción;Coquimbo;5-0
+U. Concepción;O'Higgins;2-2
+U. Concepción;La Serena;1-1
+U. Concepción;Colo Colo;2-4
+Audax;Univ Católica;1-4
+Audax;U. La Calera;4-2
+Audax;Unión Española ;1-3
+Audax;Curicó Unido;0-4
+Audax;Antofagasta;4-3
+Audax;U. de Chile;1-0
+Audax;Huachipato;1-1
+Audax;U. Concepción;5-0
+Audax;Everton;5-1
+Audax;Wanderers;1-2
+Audax;Cobresal;1-1
+Audax;Iquique;3-0
+Audax;Palestino;1-1
+Audax;Coquimbo;0-3
+Audax;O'Higgins;3-3
+Audax;La Serena;4-4
+Audax;Colo Colo;5-0
+Everton;Univ Católica;2-0
+Everton;U. La Calera;3-4
+Everton;Unión Española ;4-1
+Everton;Curicó Unido;0-0
+Everton;Antofagasta;0-1
+Everton;U. de Chile;0-5
+Everton;Huachipato;4-4
+Everton;U. Concepción;0-2
+Everton;Audax;0-0
+Everton;Wanderers;3-2
+Everton;Cobresal;3-3
+Everton;Iquique;0-0
+Everton;Palestino;5-4
+Everton;Coquimbo;1-4
+Everton;O'Higgins;3-1
+Everton;La Serena;4-0
+Everton;Colo Colo;2-5
+Wanderers;Univ Católica;1-0
+Wanderers;U. La Calera;1-2
+Wanderers;Unión Española ;5-2
+Wanderers;Curicó Unido;2-4
+Wanderers;Antofagasta;3-0
+Wanderers;U. de Chile;2-3
+Wanderers;Huachipato;3-4
+Wanderers;U. Concepción;0-4
+Wanderers;Audax;2-0
+Wanderers;Everton;0-1
+Wanderers;Cobresal;2-5
+Wanderers;Iquique;5-0
+Wanderers;Palestino;3-4
+Wanderers;Coquimbo;1-0
+Wanderers;O'Higgins;1-1
+Wanderers;La Serena;4-1
+Wanderers;Colo Colo;2-1
+Cobresal;Univ Católica;3-1
+Cobresal;U. La Calera;1-3
+Cobresal;Unión Española ;4-2
+Cobresal;Curicó Unido;0-2
+Cobresal;Antofagasta;4-3
+Cobresal;U. de Chile;1-4
+Cobresal;Huachipato;0-3
+Cobresal;U. Concepción;5-5
+Cobresal;Audax;1-2
+Cobresal;Everton;0-1
+Cobresal;Wanderers;1-3
+Cobresal;Iquique;1-5
+Cobresal;Palestino;5-2
+Cobresal;Coquimbo;3-1
+Cobresal;O'Higgins;5-4
+Cobresal;La Serena;0-4
+Cobresal;Colo Colo;3-1
+Iquique;Univ Católica;2-4
+Iquique;U. La Calera;4-0
+Iquique;Unión Española ;4-3
+Iquique;Curicó Unido;2-4
+Iquique;Antofagasta;1-3
+Iquique;U. de Chile;4-2
+Iquique;Huachipato;1-4
+Iquique;U. Concepción;1-0
+Iquique;Audax;5-2
+Iquique;Everton;1-5
+Iquique;Wanderers;3-5
+Iquique;Cobresal;4-4
+Iquique;Palestino;1-4
+Iquique;Coquimbo;2-1
+Iquique;O'Higgins;4-5
+Iquique;La Serena;3-2
+Iquique;Colo Colo;0-0
+Palestino;Univ Católica;0-4
+Palestino;U. La Calera;4-0
+Palestino;Unión Española ;1-5
+Palestino;Curicó Unido;4-5
+Palestino;Antofagasta;3-0
+Palestino;U. de Chile;1-4
+Palestino;Huachipato;5-0
+Palestino;U. Concepción;2-1
+Palestino;Audax;1-1
+Palestino;Everton;1-4
+Palestino;Wanderers;3-0
+Palestino;Cobresal;4-4
+Palestino;Iquique;2-3
+Palestino;Coquimbo;2-3
+Palestino;O'Higgins;2-5
+Palestino;La Serena;0-5
+Palestino;Colo Colo;4-3
+Coquimbo;Univ Católica;2-2
+Coquimbo;U. La Calera;1-5
+Coquimbo;Unión Española ;1-1
+Coquimbo;Curicó Unido;2-2
+Coquimbo;Antofagasta;2-3
+Coquimbo;U. de Chile;2-4
+Coquimbo;Huachipato;3-2
+Coquimbo;U. Concepción;0-0
+Coquimbo;Audax;5-5
+Coquimbo;Everton;5-3
+Coquimbo;Wanderers;0-3
+Coquimbo;Cobresal;3-0
+Coquimbo;Iquique;5-5
+Coquimbo;Palestino;3-1
+Coquimbo;O'Higgins;2-5
+Coquimbo;La Serena;2-5
+Coquimbo;Colo Colo;2-1
+O'Higgins;Univ Católica;4-5
+O'Higgins;U. La Calera;2-0
+O'Higgins;Unión Española ;5-2
+O'Higgins;Curicó Unido;1-2
+O'Higgins;Antofagasta;5-1
+O'Higgins;U. de Chile;0-0
+O'Higgins;Huachipato;0-4
+O'Higgins;U. Concepción;3-5
+O'Higgins;Audax;4-2
+O'Higgins;Everton;2-4
+O'Higgins;Wanderers;1-0
+O'Higgins;Cobresal;4-1
+O'Higgins;Iquique;5-5
+O'Higgins;Palestino;5-4
+O'Higgins;Coquimbo;0-0
+O'Higgins;La Serena;5-4
+O'Higgins;Colo Colo;1-2
+La Serena;Univ Católica;2-4
+La Serena;U. La Calera;0-3
+La Serena;Unión Española ;2-3
+La Serena;Curicó Unido;5-5
+La Serena;Antofagasta;4-3
+La Serena;U. de Chile;3-2
+La Serena;Huachipato;5-3
+La Serena;U. Concepción;1-3
+La Serena;Audax;1-2
+La Serena;Everton;2-2
+La Serena;Wanderers;5-2
+La Serena;Cobresal;3-0
+La Serena;Iquique;3-3
+La Serena;Palestino;3-2
+La Serena;Coquimbo;4-0
+La Serena;O'Higgins;0-3
+La Serena;Colo Colo;0-1
+Colo Colo;Univ Católica;5-3
+Colo Colo;U. La Calera;2-0
+Colo Colo;Unión Española ;2-1
+Colo Colo;Curicó Unido;5-3
+Colo Colo;Antofagasta;0-2
+Colo Colo;U. de Chile;5-5
+Colo Colo;Huachipato;1-4
+Colo Colo;U. Concepción;0-2
+Colo Colo;Audax;3-1
+Colo Colo;Everton;5-0
+Colo Colo;Wanderers;5-1
+Colo Colo;Cobresal;2-5
+Colo Colo;Iquique;3-5
+Colo Colo;Palestino;3-1
+Colo Colo;Coquimbo;0-4
+Colo Colo;O'Higgins;5-4
+Colo Colo;La Serena;4-2
